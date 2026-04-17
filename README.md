@@ -1,7 +1,7 @@
 
-# KeenKeeper
+                                                          # KeenKeeper
 
-**An AI-inspired Friendship Management Platform**
+                                         **An AI-inspired Friendship Management Platform**
 
 [![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
@@ -14,7 +14,7 @@
 ### [🌐 Live Demo](https://mohtasim-keen-keeper.vercel.app/) • [💻 GitHub Repo](https://github.com/zim1122/keen-keeper)
 
 </div>
-![image](<img width="1536" height="1024" alt="keenkeeperimg" src="https://github.com/user-attachments/assets/7a65c1a2-ab4e-4450-8726-5cbbe82c0393" />
+(<img width="1536" height="1024" alt="keenkeeperimg" src="https://github.com/user-attachments/assets/7a65c1a2-ab4e-4450-8726-5cbbe82c0393" />
 )
 
 ## 🚀 Key Features
@@ -41,4 +41,4 @@ The application consumes a local `friends.json` database. Each profile tracks co
 2. `npm run dev`
 
 ---
-*Developed by [Your Name]*
+*Developed by [Md.Mohtasim Billah Zim]*
