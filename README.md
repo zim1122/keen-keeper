@@ -1,7 +1,9 @@
 
-                                                          # KeenKeeper
+<div align="center">
 
-                                         **An AI-inspired Friendship Management Platform**
+# KeenKeeper
+
+**An AI-inspired Friendship Management Platform**
 
 [![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
