@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Alex Rivera",
+    "picture": "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+    "email": "alex.rivera@email.com",
+    "days_since_contact": 18,
+    "status": "overdue",
+    "tags": ["college", "close friend"],
+    "bio": "Met during freshman year engineering classes. We used to pull all-nighters coding projects and still debate the best sci-fi movies.",
+    "goal": 14,
+    "next_due_date": "2025-07-15"
+  },
+  {
+    "id": 2,
+    "name": "Priya Sharma",
+    "picture": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+    "email": "priya.sharma@email.com",
+    "days_since_contact": 5,
+    "status": "on-track",
+    "tags": ["work", "yoga buddy"],
+    "bio": "Colleague from my first job in marketing. We bonded over early morning yoga sessions and now share career advice and weekend hiking plans.",
+    "goal": 14,
+    "next_due_date": "2025-07-28"
+  },
+  {
+    "id": 3,
+    "name": "Marcus Thompson",
+    "picture": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+    "email": "marcus.t@email.com",
+    "days_since_contact": 9,
+    "status": "almost due",
+    "tags": ["gym", "childhood"],
+    "bio": "Known each other since middle school basketball team. Still compete in pickup games and talk about starting a fantasy football league again.",
+    "goal": 14,
+    "next_due_date": "2025-07-22"
+  },
+  {
+    "id": 4,
+    "name": "Sophie Laurent",
+    "picture": "https://images.pexels.com/photos/4670298/pexels-photo-4670298.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+    "email": "sophie.laurent@email.com",
+    "days_since_contact": 22,
+    "status": "overdue",
+    "tags": ["study abroad", "foodie"],
+    "bio": "Met while studying in Paris. We explored hidden cafés together and still swap recipes and travel stories from our European adventures.",
+    "goal": 14,
+    "next_due_date": "2025-07-10"
+  },
+  {
+    "id": 5,
+    "name": "Jamal Khan",
+    "picture": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+    "email": "jamal.khan@email.com",
+    "days_since_contact": 3,
+    "status": "on-track",
+    "tags": ["music", "neighbor"],
+    "bio": "Former neighbor who introduced me to live jazz nights. We play guitar together occasionally and discuss everything from politics to new albums.",
+    "goal": 14,
+    "next_due_date": "2025-07-30"
+  },
+  {
+    "id": 6,
+    "name": "Emma Patel",
+    "picture": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+    "email": "emma.patel@email.com",
+    "days_since_contact": 12,
+    "status": "almost due",
+    "tags": ["book club", "close friend"],
+    "bio": "Joined the same book club three years ago. We love discussing thrillers and have started a tradition of monthly coffee and deep conversations.",
+    "goal": 14,
+    "next_due_date": "2025-07-20"
+  },
+  {
+    "id": 7,
+    "name": "Liam Chen",
+    "picture": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+    "email": "liam.chen@email.com",
+    "days_since_contact": 25,
+    "status": "overdue",
+    "tags": ["gaming", "online friend"],
+    "bio": "Met through an online multiplayer game years ago and became real-life friends. We still squad up for sessions and share tech tips.",
+    "goal": 14,
+    "next_due_date": "2025-07-05"
+  },
+  {
+    "id": 8,
+    "name": "Fatima Al-Sayed",
+    "picture": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop",
+    "email": "fatima.alsayed@email.com",
+    "days_since_contact": 7,
+    "status": "on-track",
+    "tags": ["volunteer", "family friend"],
+    "bio": "Connected through community volunteering events. We often talk about family, travel dreams, and ways to support local causes together.",
+    "goal": 14,
+    "next_due_date": "2025-07-25"
+  }
+]
