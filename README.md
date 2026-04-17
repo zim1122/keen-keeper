@@ -1,5 +1,3 @@
-<img width="1536" height="1024" alt="keenkeeperimg" src="https://github.com/user-attachments/assets/70d9d5e5-3910-46c9-bd0b-f3b707a96d6a" />
-<div align="center">
 
 # KeenKeeper
 
