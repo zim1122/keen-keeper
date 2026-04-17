@@ -16,8 +16,7 @@
 ### [🌐 Live Demo](https://mohtasim-keen-keeper.vercel.app/) • [💻 GitHub Repo](https://github.com/zim1122/keen-keeper)
 
 </div>
-(<img width="1536" height="1024" alt="keenkeeperimg" src="https://github.com/user-attachments/assets/7a65c1a2-ab4e-4450-8726-5cbbe82c0393" />
-)
+<img width="1536" height="1024" alt="keenkeeperimg" src="https://github.com/user-attachments/assets/7a65c1a2-ab4e-4450-8726-5cbbe82c0393" />
 
 ## 🚀 Key Features
 
