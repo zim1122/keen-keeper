@@ -12,7 +12,7 @@
 
 ---
 
-### [🌐 Live Demo](https://mohtasim-keen-keeper.vercel.app/) • [💻 GitHub Repo](Your-Repo-Link-Here)
+### [🌐 Live Demo](https://mohtasim-keen-keeper.vercel.app/) • [💻 GitHub Repo](https://github.com/zim1122/keen-keeper)
 
 </div>
 
